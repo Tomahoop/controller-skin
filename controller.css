@@ -3,36 +3,36 @@
 }
 
 .ds4.disconnected {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/disconnected.svgz");
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/disconnected.svg");
 }
 
 .ds4 .trigger {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/triggers.svgz");
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/triggers.svg");
 }
 
 .ds4 .bumper {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/bumper.svgz") no-repeat;
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/bumper.svg") no-repeat;
 }
 
 .ds4 .touchpad.pressed {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/touchpad.svgz") no-repeat center;
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/touchpad.svg") no-repeat center;
 }
 
 .ds4 .meta.pressed {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/meta.svgz") no-repeat center;
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/meta.svg") no-repeat center;
 }
 
 .ds4 .back,
 .ds4 .start {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svgz");
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svg");
 }
 
 .ds4 .stick {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svgz");
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svg");
 }
 
 .ds4 .face {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/dpad.svgz");
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/dpad.svg");
 }
 
 .controller.ds4.white {
@@ -40,34 +40,34 @@
 }
 
 .ds4.white.disconnected {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/disconnected.svgz");
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/disconnected.svg");
 }
 
 .ds4.white .trigger {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/triggers.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/triggers.svg");
 }
 
 .ds4.white .bumper {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/bumper.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/bumper.svg");
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/touchpad.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/touchpad.svg");
 }
 
 .ds4.white .back,
 .ds4.white .start {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svg");
 }
 
 .ds4.white .button {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/face.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/face.svg");
 }
 
 .ds4.white .stick {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svg");
 }
 
 .ds4.white .face {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/dpad.svgz");
+    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/dpad.svg");
 }
