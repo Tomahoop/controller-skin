@@ -27,6 +27,10 @@
     background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svg");
 }
 
+.ds4 .button {
+    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/face.svg");
+}
+
 .ds4 .stick {
     background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svg");
 }
