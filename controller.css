@@ -1,77 +1,79 @@
 .controller.ds4 {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/base.svg");
+    background: url("https://tomahoop.github.io/controller-skin/base.svg");
 }
 
 .ds4.disconnected {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/disconnected.svg");
+    background: url("https://tomahoop.github.io/controller-skin/disconnected.svg");
 }
 
 .ds4 .trigger {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/triggers.svg");
+    background: url("https://tomahoop.github.io/controller-skin/triggers.svg");
 }
 
 .ds4 .bumper {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/bumper.svg") no-repeat;
+    background: url("https://tomahoop.github.io/controller-skin/bumper.svg") no-repeat;
 }
 
 .ds4 .touchpad.pressed {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/touchpad.svg") no-repeat center;
+    background: url("https://tomahoop.github.io/controller-skin/touchpad.svg") no-repeat center;
 }
 
 .ds4 .meta.pressed {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/meta.svg") no-repeat center;
+    background: url("https://tomahoop.github.io/controller-skin/meta.svg") no-repeat center;
 }
 
 .ds4 .back,
 .ds4 .start {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svg");
+    background: url("https://tomahoop.github.io/controller-skin/start.svg");
 }
 
+/*
 .ds4 .button {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/face.svg");
+    background: url("https://tomahoop.github.io/controller-skin/face.svg");
 }
+*/
 
 .ds4 .stick {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svg");
+    background: url("https://tomahoop.github.io/controller-skin/sticks.svg");
 }
 
 .ds4 .face {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/dpad.svg");
+    background: url("https://tomahoop.github.io/controller-skin/dpad.svg");
 }
 
 .controller.ds4.white {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/base.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/base.svg");
 }
 
 .ds4.white.disconnected {
-    background: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/disconnected.svg");
+    background: url("https://tomahoop.github.io/controller-skin/disconnected.svg");
 }
 
 .ds4.white .trigger {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/triggers.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/triggers.svg");
 }
 
 .ds4.white .bumper {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/bumper.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/bumper.svg");
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/touchpad.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/touchpad.svg");
 }
 
 .ds4.white .back,
 .ds4.white .start {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/start.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/start.svg");
 }
 
 .ds4.white .button {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/face.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/face.svg");
 }
 
 .ds4.white .stick {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/sticks.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/sticks.svg");
 }
 
 .ds4.white .face {
-    background-image: url("https://raw.githubusercontent.com/tomahoop/controller-skin/main/dpad.svg");
+    background-image: url("https://tomahoop.github.io/controller-skin/dpad.svg");
 }
