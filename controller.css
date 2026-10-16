@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url("https://tomahoop.github.io/controller-skin/base_default.svg")
+    background: url("https://tomahoop.github.io/controller-skin/base.svg")
 }
 
 .ds4.disconnected {
@@ -42,7 +42,7 @@
 }
 
 .controller.ds4.white {
-    background: url("https://tomahoop.github.io/controller-skin/base_default.svg")
+    background: url("https://tomahoop.github.io/controller-skin/base.svg")
 }
 
 .ds4.white.disconnected {
